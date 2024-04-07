@@ -1,0 +1,7 @@
+com\example\program\techie\InventoryService\model\InventoryResponse$InventoryResponseBuilder.class
+com\example\program\techie\InventoryService\model\InventoryResponse.class
+com\example\program\techie\InventoryService\repository\InventoryRepository.class
+com\example\program\techie\InventoryService\service\InventoryService.class
+com\example\program\techie\InventoryService\InventoryServiceApplication.class
+com\example\program\techie\InventoryService\controller\InventoryController.class
+com\example\program\techie\InventoryService\model\Inventory.class

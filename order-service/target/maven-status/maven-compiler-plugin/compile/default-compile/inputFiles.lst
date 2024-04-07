@@ -1,0 +1,10 @@
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\dto\OrderLineItemsDto.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\repository\OrderRepository.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\model\OrderLineItems.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\controller\OrderController.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\service\OrderService.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\dto\InventoryResponse.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\OrderServiceApplication.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\config\WebClientConfig.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\model\Order.java
+C:\microservices-new\order-service\src\main\java\com\program\techie\OrderService\dto\OrderRequest.java
